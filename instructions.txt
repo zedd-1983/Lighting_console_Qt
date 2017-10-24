@@ -1,0 +1,9 @@
+git add .  --> adds files located in the user repository (on the computer)
+
+git commit -m "message" --> adds this message to any modified file
+
+git push origin master --> uploads files to github
+
+git log --> shows log of stuff done
+
+git checkout -b "name of the branch" --> creates a new branch
